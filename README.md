@@ -1,8 +1,8 @@
-TeamSync-AI
+## TeamSync-AI
 
 TeamSync-AI is a professional, full-stack analytics platform designed to revolutionize team assembly through data-driven insights. By combining Organizational Behavior (Belbin Team Roles) with Social Network Analysis (SNA) and Genetic Algorithm Optimization, this tool helps executives build high-performance, psychologically safe teams with surgical precision.
 
-Key Features:-
+# Key Features:-
 
 This project provides actionable intelligence through a modern SaaS interface:
 
@@ -28,7 +28,7 @@ This project provides actionable intelligence through a modern SaaS interface:
 
 2. Interactive Sidebar: Dynamic controls for portfolio budgeting, tech stack selection, and team capacity management.
 
-Tech Stack:-
+# Tech Stack:-
 
 1. Backend & Framework: Python, Streamlit
 
@@ -39,7 +39,7 @@ Tech Stack:-
 4. Project Logic: Organizational Behavior Mapping (Belbin & Big Five Theory)
 
 
-Setup and Installation:-
+# Setup and Installation:-
 
 Prerequisites
 Python 3.9+
@@ -68,7 +68,7 @@ streamlit run main.py
 
 The application will launch at http://localhost:8501/. Use the Strategic Config sidebar to begin your first AI-driven team optimization.
 
-New Terminal Quickstart:-
+# New Terminal Quickstart:-
 
 1. cd C:\Path\To\TeamSync-AI
 2. venv\Scripts\activate
