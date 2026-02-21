@@ -1,4 +1,4 @@
-## TeamSync-AI
+# TeamSync-AI
 
 TeamSync-AI is a professional, full-stack analytics platform designed to revolutionize team assembly through data-driven insights. By combining Organizational Behavior (Belbin Team Roles) with Social Network Analysis (SNA) and Genetic Algorithm Optimization, this tool helps executives build high-performance, psychologically safe teams with surgical precision.
 
