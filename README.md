@@ -77,6 +77,6 @@ The application will launch at http://localhost:8501/. Use the Strategic Config 
 
 ## New Terminal Quickstart:-
 
-1. cd C:\Path\To\TeamSync-AI
+1. cd C:\TeamSync-AI
 2. venv\Scripts\activate
 3. streamlit run app/main.py
