@@ -79,4 +79,4 @@ The application will launch at http://localhost:8501/. Use the Strategic Config 
 
 1. cd C:\TeamSync-AI
 2. venv\Scripts\activate
-3. streamlit run app/main.py
+3. streamlit run main.py
